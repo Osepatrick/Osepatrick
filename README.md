@@ -2,7 +2,7 @@
 
 ---
 
-My name is Patrick Ehimen and I'm a blockchain developer. I'm from Nigeria, living in Lagos. I'm a blockchain & tech enthusiast and open-source advocate. I'm always open to collaborating on projects and innovative/disruptive ideas. :wink:
+My name is Patrick Ehimen and I'm a blockchain developer. I'm from Nigeria, living in Lagos. I'm a blockchain, tech enthusiast and open-source advocate. I'm always open to collaborating on projects and innovative/disruptive ideas. :wink:
  
  🔭 Currently exploring and developing **Web3 solutions** using <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"> and <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
  
