@@ -9,7 +9,7 @@ My name is Patrick Ehimen and I'm a blockchain developer. I'm from Nigeria, livi
  🌱 I’m currently learning <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> and <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
  
 
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/Osepatrick)  <img src="https://img.shields.io/github/followers/Osepatrick?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
