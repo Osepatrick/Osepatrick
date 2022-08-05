@@ -44,4 +44,6 @@ My name is Patrick Ehimen and I'm a blockchain developer. I'm from Nigeria, livi
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
+<a href="https://app.daily.dev/OsePatrick"><img src="https://api.daily.dev/devcards/078d7a0e50e04982967b8449a996f375.png?r=6j1" width="400" alt="Ose Patrick's Dev Card"/></a>
+
 **Check the Repositories and don't forget to give a star.** 
