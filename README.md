@@ -6,7 +6,7 @@ My name is Patrick Ehimen and I'm a blockchain developer. I'm from Nigeria, livi
  
  🔭 Currently exploring and developing **Web3 solutions** using <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"> and <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
  
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> and <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+ 🌱 I’m currently working with <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> and <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
  
 
 ![Profile views](https://gpvc.arturio.dev/Osepatrick)  <img src="https://img.shields.io/github/followers/Osepatrick?label=Follow" style=" float:left, margin-right:10px" />
