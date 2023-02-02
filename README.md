@@ -1,8 +1,6 @@
 ### Hello there 👋
 
 ---
-
-My name is Patrick Ehimen and I'm a blockchain developer. I'm from Nigeria, living in Lagos. I'm a blockchain, tech enthusiast and open-source advocate. I'm always open to collaborating on projects and innovative/disruptive ideas. :wink:
  
  🔭 Currently exploring and developing **Web3 solutions** using <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"> and <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
  
@@ -33,7 +31,6 @@ My name is Patrick Ehimen and I'm a blockchain developer. I'm from Nigeria, livi
 
 
 ### You can find in me in the web 🌍
-<a href="https://www.linkedin.com/in/patrick-ehimen/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@patrickEhimen-blue?style=flat&logo=linkedin"></a>
 
 <a href="mailto:ose@thecrypticpat.com"><img alt="Email" src="https://img.shields.io/badge/Email-ose@thecrypticpat.com-blue?style=flat&logo=gmail"></a>
 
@@ -44,6 +41,5 @@ My name is Patrick Ehimen and I'm a blockchain developer. I'm from Nigeria, livi
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
-<a href="https://app.daily.dev/OsePatrick"><img src="https://api.daily.dev/devcards/078d7a0e50e04982967b8449a996f375.png?r=6j1" width="400" alt="Ose Patrick's Dev Card"/></a>
 
 **Check the Repositories and don't forget to give a star.** 
